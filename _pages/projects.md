@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Grants
 permalink: /projects/
 description: Selected grants and research projects led by Jiadong Yu.
 nav: true

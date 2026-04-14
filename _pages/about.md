@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Assistant Professor, Internet of Things (IoT) Thrust, The Hong Kong University of Science and Technology (Guangzhou)
 
@@ -28,8 +28,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an Assistant Professor in the Internet of Things (IoT) Thrust at The Hong Kong University of Science and Technology (Guangzhou). My research focuses on reinforcement learning, multi-agent reinforcement learning, multi-agent systems, edge intelligence, and wireless communications, with recent work spanning digital twins, federated learning, and cyber-physical systems.
+Dr. Jiadong Yu is currently an Assistant Professor of IoT Thrust. She received her Ph.D. in Computer Science from Queen Mary University of London, United Kingdom, in 2021. During the same year, she served as a Teaching Fellow at the School of Electronic Engineering and Computer Science within the same university. Since November 2021, she has been with the Internet of Things Thrust at HKUST (Guangzhou), where she held the position of Post-Doctoral Research Fellow until 2023. Concurrently, in 2023, she was a Visiting Research Fellow at the University of Cambridge in the Department of Engineering.
 
-Before joining HKUST(GZ) as faculty in January 2024, I worked there as a Postdoctoral Research Fellow with Prof. Danny H. K. Tsang. I was also a Visiting Research Fellow at the University of Cambridge and a Teaching Fellow at Queen Mary University of London. I received my PhD in Computer Science from Queen Mary University of London, an MSc in Wireless Communications with Distinction from the University of Southampton, and a BEng in Communication Engineering from Dalian Maritime University.
+Her research has been published in prestigious journals such as IEEE JSAC, IEEE TWC, etc. Dr. Yu actively contributes to the academic community, serving as a regular journal reviewer for multiple journals (e.g., IEEE JSAC, IEEE Communication Magazine, IEEE Network, IEEE TWC, IEEE TMC, etc.) and as the TPC member and Session Chair for IEEE ComSoc conferences. She received the Excellent Reviewer award in 2022 and 2023 for IEEE TNSE. Her current research pursuits focus on the fields of Multi-agent Reinforcement Learning (MARL), Multi-agent System, as well as edge intelligence.
 
-I supervise PhD students and research assistants, design IoT curriculum, teach undergraduate and postgraduate courses, and lead projects at the intersection of AI and next-generation networked systems.
+The research team of Dr. Jiadong Yu at HKUST(GZ) is seeking highly motivated Research Assistants, MPhil, and PhD candidates. We invite applicants passionate about cutting-edge research in MARL, Multi-agent System, and RL for Robotics. To apply, please submit the following in English: Motivation Letter, CV, and Academic Transcripts. Send your application to: <a href="mailto:jiadongyu@hkust-gz.edu.cn">jiadongyu@hkust-gz.edu.cn</a>
