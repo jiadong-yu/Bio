@@ -69,18 +69,37 @@ nav_order: 7
 </div>
 
 <div class="jd-section-divider"><span>MPhil Students</span></div>
-<ul class="jd-simple-list">
-  <li>Mr. Guangzhi Zhu</li>
-</ul>
+<div class="jd-person-grid">
+  <div class="jd-person-card">
+    <div class="jd-person-placeholder">Guangzhi Zhu</div>
+    <div class="jd-person-body">
+      <h3 class="jd-person-name">Mr. Guangzhi Zhu</h3>
+      <p class="jd-person-role">MPhil Student</p>
+    </div>
+  </div>
+</div>
 
 <div class="jd-section-divider"><span>Visiting Students</span></div>
-<ul class="jd-simple-list">
-  <li>Mr. Nianfu Wang (PhD from HIT(SZ) and Pengcheng Lab)</li>
-  <li>Mr. Yaoyin Zhang (UG from Fudan University)</li>
-</ul>
+<div class="jd-person-grid">
+  <div class="jd-person-card">
+    <div class="jd-person-placeholder">Nianfu Wang</div>
+    <div class="jd-person-body">
+      <h3 class="jd-person-name">Mr. Nianfu Wang</h3>
+      <p class="jd-person-role">Visiting Student · PhD from HIT(SZ) and Pengcheng Lab</p>
+    </div>
+  </div>
+
+  <div class="jd-person-card">
+    <div class="jd-person-placeholder">Yaoyin Zhang</div>
+    <div class="jd-person-body">
+      <h3 class="jd-person-name">Mr. Yaoyin Zhang</h3>
+      <p class="jd-person-role">Visiting Student · UG from Fudan University</p>
+    </div>
+  </div>
+</div>
 
 <div class="jd-section-divider"><span>Alumni</span></div>
-<ul class="jd-simple-list">
+<ul class="jd-simple-list jd-simple-list-plain">
   <li>Mr. Chen Shang, PhD in University of Technology Sydney</li>
   <li>Ms. Sixi Cheng, PhD in Singapore University of Technology and Design</li>
 </ul>
