@@ -486,11 +486,11 @@ ninja.data = [{
           window.open("/JDBio/feed.xml", "_blank");
         },
       },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
+        id: 'social-scholar',
+        title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/jiadong-yu", "_blank");
+          window.open("https://scholar.google.com/citations?user=lsj5Wv4AAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
