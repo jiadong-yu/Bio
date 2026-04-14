@@ -8,6 +8,12 @@ nav_order: 2
 ---
 
 <style>
+  .pub-intro {
+    margin-bottom: 1.2rem;
+    color: #505050;
+    line-height: 1.8;
+  }
+
   .pub-list {
     list-style: none;
     padding-left: 0;
@@ -30,6 +36,11 @@ nav_order: 2
     margin-top: 2rem;
   }
 </style>
+
+<p class="pub-intro">
+  For a complete citation profile, please visit my
+  <a href="https://scholar.google.com/citations?user=lsj5Wv4AAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>.
+</p>
 
 <div class="pub-section">
   <h2>Journal Papers</h2>

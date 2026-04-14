@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /people/
-title: People
+permalink: /group/
+title: Group
 description: Students and collaborators in the research group.
 nav: true
 nav_order: 7
@@ -70,13 +70,13 @@ nav_order: 7
 
 <div class="jd-section-divider"><span>MPhil Students</span></div>
 <ul class="jd-simple-list">
-  <li>Guangzhi Zhu</li>
+  <li>Mr. Guangzhi Zhu</li>
 </ul>
 
 <div class="jd-section-divider"><span>Visiting Students</span></div>
 <ul class="jd-simple-list">
-  <li>PhD: Nianfu Wang</li>
-  <li>Undergraduate: Yaoyin Zhang</li>
+  <li>Mr. Nianfu Wang (PhD from HIT(SZ) and Pengcheng Lab)</li>
+  <li>Mr. Yaoyin Zhang (UG from Fudan University)</li>
 </ul>
 
 <div class="jd-section-divider"><span>Alumni</span></div>

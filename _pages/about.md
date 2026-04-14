@@ -24,11 +24,35 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+<style>
+  .post .profile {
+    position: relative;
+  }
+
+  .post .profile .more-info {
+    position: absolute;
+    right: 0.35rem;
+    bottom: 0.35rem;
+    margin: 0;
+    padding: 0;
+    color: #9a9a9a;
+    font-family: inherit;
+    font-size: 0.72rem;
+    line-height: 1.4;
+    text-align: right;
+    max-width: 78%;
+  }
+
+  .post .profile .more-info p {
+    margin: 0;
+  }
+</style>
+
 <div class="jd-page-intro jd-plain-block">
   Dr. Jiadong Yu is currently an Assistant Professor of IoT Thrust. She received her Ph.D. in Computer Science from Queen Mary University of London, United Kingdom, in 2021. During the same year, she served as a Teaching Fellow at the School of Electronic Engineering and Computer Science within the same university. Since November 2021, she has been with the Internet of Things Thrust at HKUST (Guangzhou), where she held the position of Post-Doctoral Research Fellow until 2023. Concurrently, in 2023, she was a Visiting Research Fellow at the University of Cambridge in the Department of Engineering.
 </div>
 
-<div class="jd-section-divider"><span>Research and Service</span></div>
+<h2>Research and Service</h2>
 <div class="jd-plain-block">
   <p>Her research has been published in prestigious journals such as IEEE JSAC, IEEE TWC, etc. Dr. Yu actively contributes to the academic community, serving as a regular journal reviewer for multiple journals (e.g., IEEE JSAC, IEEE Communication Magazine, IEEE Network, IEEE TWC, IEEE TMC, etc.) and as the TPC member and Session Chair for IEEE ComSoc conferences. She received the Excellent Reviewer award in 2022 and 2023 for IEEE TNSE. Her current research pursuits focus on the fields of Multi-agent Reinforcement Learning (MARL), Multi-agent System, as well as edge intelligence.</p>
 </div>
