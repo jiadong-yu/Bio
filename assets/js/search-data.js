@@ -456,12 +456,12 @@ ninja.data = [{
               window.location.href = "/JDBio/projects/9_project/";
             },},{id: "teachings-applied-statistics",
           title: 'Applied Statistics',
-          description: "Undergraduate course covering statistical foundations for data-driven analysis and decision-making.",
+          description: "Undergraduate course on probability, inference, regression, and Bayesian thinking.",
           section: "Teachings",handler: () => {
               window.location.href = "/JDBio/teachings/data-science-fundamentals/";
-            },},{id: "teachings-rl-for-intelligent-decision-making-in-cps",
-          title: 'RL for Intelligent Decision Making in CPS',
-          description: "Graduate course on reinforcement learning methods for intelligent decision-making in cyber-physical systems.",
+            },},{id: "teachings-reinforcement-learning-for-intelligent-decision-making",
+          title: 'Reinforcement Learning for Intelligent Decision Making',
+          description: "Graduate course covering reinforcement learning from core foundations to advanced RL and MARL.",
           section: "Teachings",handler: () => {
               window.location.href = "/JDBio/teachings/introduction-to-machine-learning/";
             },},{
