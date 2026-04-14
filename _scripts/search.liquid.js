@@ -6,52 +6,65 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [
-  {%- for page in site.pages -%}
-    {%- if page.permalink == '/' -%}{%- assign about_title = page.title | strip -%}{%- endif -%}
-  {%- endfor -%}
+  {%- assign about_page = site.pages | where: "permalink", "/" | first -%}
+  {%- assign teaching_page = site.pages | where: "permalink", "/teaching/" | first -%}
+  {%- assign grants_page = site.pages | where: "permalink", "/grants/" | first -%}
+  {%- assign services_page = site.pages | where: "permalink", "/services/" | first -%}
+  {%- assign group_page = site.pages | where: "permalink", "/group/" | first -%}
+  {%- assign publications_page = site.pages | where: "permalink", "/publications/" | first -%}
   {
-    id: "nav-{{ about_title | slugify }}",
-    title: "{{ about_title | truncatewords: 13 }}",
+    id: "nav-{{ about_page.title | slugify }}",
+    title: "{{ about_page.title | truncatewords: 13 }}",
     section: "Navigation",
     handler: () => {
       window.location.href = "{{ '/' | relative_url }}";
     },
   },
-  {%- assign sorted_pages = site.pages | sort: "nav_order" -%}
-  {%- for p in sorted_pages -%}
-    {%- if p.nav and p.autogen == null -%}
-      {%- if p.dropdown -%}
-        {%- for child in p.children -%}
-          {%- unless child.title == 'divider' -%}
-            {
-              {%- assign title = child.title | escape | strip -%}
-              {%- if child.permalink contains "/blog/" -%}{%- assign url = "/blog/" -%} {%- else -%}{%- assign url = child.permalink -%}{%- endif -%}
-              id: "dropdown-{{ title | slugify }}",
-              title: "{{ title | truncatewords: 13 }}",
-              description: "{{ child.description | strip_html | strip_newlines | escape | strip }}",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "{{ url | relative_url }}";
-              },
-            },
-          {%- endunless -%}
-        {%- endfor -%}
-
-      {%- else -%}
-        {
-          {%- assign title = p.title | escape | strip -%}
-          {%- if p.permalink contains "/blog/" -%}{%- assign url = "/blog/" -%} {%- else -%}{%- assign url = p.url -%}{%- endif -%}
-          id: "nav-{{ title | slugify }}",
-          title: "{{ title | truncatewords: 13 }}",
-          description: "{{ p.description | strip_html | strip_newlines | escape | strip }}",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "{{ url | relative_url }}";
-          },
-        },
-      {%- endif -%}
-    {%- endif -%}
-  {%- endfor -%}
+  {
+    id: "nav-{{ teaching_page.title | slugify }}",
+    title: "{{ teaching_page.title | truncatewords: 13 }}",
+    description: "{{ teaching_page.description | strip_html | strip_newlines | escape | strip }}",
+    section: "Navigation",
+    handler: () => {
+      window.location.href = "{{ teaching_page.url | relative_url }}";
+    },
+  },
+  {
+    id: "nav-{{ grants_page.title | slugify }}",
+    title: "{{ grants_page.title | truncatewords: 13 }}",
+    description: "{{ grants_page.description | strip_html | strip_newlines | escape | strip }}",
+    section: "Navigation",
+    handler: () => {
+      window.location.href = "{{ grants_page.url | relative_url }}";
+    },
+  },
+  {
+    id: "nav-{{ services_page.title | slugify }}",
+    title: "{{ services_page.title | truncatewords: 13 }}",
+    description: "{{ services_page.description | strip_html | strip_newlines | escape | strip }}",
+    section: "Navigation",
+    handler: () => {
+      window.location.href = "{{ services_page.url | relative_url }}";
+    },
+  },
+  {
+    id: "nav-{{ group_page.title | slugify }}",
+    title: "{{ group_page.title | truncatewords: 13 }}",
+    description: "{{ group_page.description | strip_html | strip_newlines | escape | strip }}",
+    section: "Navigation",
+    handler: () => {
+      window.location.href = "{{ group_page.url | relative_url }}";
+    },
+  },
+  {
+    id: "nav-{{ publications_page.title | slugify }}",
+    title: "{{ publications_page.title | truncatewords: 13 }}",
+    description: "{{ publications_page.description | strip_html | strip_newlines | escape | strip }}",
+    section: "Navigation",
+    handler: () => {
+      window.location.href = "{{ publications_page.url | relative_url }}";
+    },
+  },
   {%- if site.posts_in_search -%}
     {%- for post in site.posts -%}
       {
