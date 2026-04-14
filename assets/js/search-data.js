@@ -7,7 +7,7 @@ ninja.data = [{
     title: "About",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/JDBio/";
+      window.location.href = "/Bio/";
     },
   },
   {
@@ -16,7 +16,7 @@ ninja.data = [{
     description: "Courses taught by Jiadong Yu at HKUST(GZ).",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/JDBio/teaching/";
+      window.location.href = "/Bio/teaching/";
     },
   },
   {
@@ -25,7 +25,7 @@ ninja.data = [{
     description: "Selected grants and funded research led by Jiadong Yu.",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/JDBio/grants/";
+      window.location.href = "/Bio/grants/";
     },
   },
   {
@@ -34,7 +34,7 @@ ninja.data = [{
     description: "Professional services and academic activities by Jiadong Yu.",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/JDBio/services/";
+      window.location.href = "/Bio/services/";
     },
   },
   {
@@ -43,7 +43,7 @@ ninja.data = [{
     description: "Students and collaborators in the research group.",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/JDBio/group/";
+      window.location.href = "/Bio/group/";
     },
   },
   {
@@ -52,7 +52,7 @@ ninja.data = [{
     description: "Journal and conference papers by Jiadong Yu.",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/JDBio/publications/";
+      window.location.href = "/Bio/publications/";
     },
   },{id: "post-a-post-with-plotly-js",
         
@@ -62,7 +62,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/JDBio/blog/2025/plotly/";
+            window.location.href = "/Bio/blog/2025/plotly/";
           
         },
       },{id: "post-a-post-with-image-galleries",
@@ -73,7 +73,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/JDBio/blog/2024/photo-gallery/";
+            window.location.href = "/Bio/blog/2024/photo-gallery/";
           
         },
       },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
@@ -95,7 +95,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/JDBio/blog/2024/tabs/";
+            window.location.href = "/Bio/blog/2024/tabs/";
           
         },
       },{id: "post-a-post-with-typograms",
@@ -106,7 +106,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/JDBio/blog/2024/typograms/";
+            window.location.href = "/Bio/blog/2024/typograms/";
           
         },
       },{id: "post-a-post-that-can-be-cited",
@@ -117,7 +117,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/JDBio/blog/2024/post-citation/";
+            window.location.href = "/Bio/blog/2024/post-citation/";
           
         },
       },{id: "post-a-post-with-pseudo-code",
@@ -128,7 +128,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/JDBio/blog/2024/pseudocode/";
+            window.location.href = "/Bio/blog/2024/pseudocode/";
           
         },
       },{id: "post-a-post-with-code-diff",
@@ -139,7 +139,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/JDBio/blog/2024/code-diff/";
+            window.location.href = "/Bio/blog/2024/code-diff/";
           
         },
       },{id: "post-a-post-with-advanced-image-components",
@@ -150,7 +150,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/JDBio/blog/2024/advanced-images/";
+            window.location.href = "/Bio/blog/2024/advanced-images/";
           
         },
       },{id: "post-a-post-with-vega-lite",
@@ -161,7 +161,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/JDBio/blog/2024/vega-lite/";
+            window.location.href = "/Bio/blog/2024/vega-lite/";
           
         },
       },{id: "post-a-post-with-geojson",
@@ -172,7 +172,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/JDBio/blog/2024/geojson-map/";
+            window.location.href = "/Bio/blog/2024/geojson-map/";
           
         },
       },{id: "post-a-post-with-echarts",
@@ -183,7 +183,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/JDBio/blog/2024/echarts/";
+            window.location.href = "/Bio/blog/2024/echarts/";
           
         },
       },{id: "post-a-post-with-chart-js",
@@ -194,7 +194,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/JDBio/blog/2024/chartjs/";
+            window.location.href = "/Bio/blog/2024/chartjs/";
           
         },
       },{id: "post-a-post-with-tikzjax",
@@ -205,7 +205,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/JDBio/blog/2023/tikzjax/";
+            window.location.href = "/Bio/blog/2023/tikzjax/";
           
         },
       },{id: "post-a-post-with-bibliography",
@@ -216,7 +216,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/JDBio/blog/2023/post-bibliography/";
+            window.location.href = "/Bio/blog/2023/post-bibliography/";
           
         },
       },{id: "post-a-post-with-jupyter-notebook",
@@ -227,7 +227,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/JDBio/blog/2023/jupyter-notebook/";
+            window.location.href = "/Bio/blog/2023/jupyter-notebook/";
           
         },
       },{id: "post-a-post-with-custom-blockquotes",
@@ -238,7 +238,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/JDBio/blog/2023/custom-blockquotes/";
+            window.location.href = "/Bio/blog/2023/custom-blockquotes/";
           
         },
       },{id: "post-a-post-with-table-of-contents-on-a-sidebar",
@@ -249,7 +249,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/JDBio/blog/2023/sidebar-table-of-contents/";
+            window.location.href = "/Bio/blog/2023/sidebar-table-of-contents/";
           
         },
       },{id: "post-a-post-with-audios",
@@ -260,7 +260,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/JDBio/blog/2023/audios/";
+            window.location.href = "/Bio/blog/2023/audios/";
           
         },
       },{id: "post-a-post-with-videos",
@@ -271,7 +271,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/JDBio/blog/2023/videos/";
+            window.location.href = "/Bio/blog/2023/videos/";
           
         },
       },{id: "post-displaying-beautiful-tables-with-bootstrap-tables",
@@ -282,7 +282,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/JDBio/blog/2023/tables/";
+            window.location.href = "/Bio/blog/2023/tables/";
           
         },
       },{id: "post-a-post-with-table-of-contents",
@@ -293,7 +293,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/JDBio/blog/2023/table-of-contents/";
+            window.location.href = "/Bio/blog/2023/table-of-contents/";
           
         },
       },{id: "post-a-post-with-giscus-comments",
@@ -304,7 +304,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/JDBio/blog/2022/giscus-comments/";
+            window.location.href = "/Bio/blog/2022/giscus-comments/";
           
         },
       },{id: "post-displaying-external-posts-on-your-al-folio-blog",
@@ -326,7 +326,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/JDBio/assets/pdf/example_pdf.pdf";
+            window.location.href = "/Bio/assets/pdf/example_pdf.pdf";
           
         },
       },{id: "post-a-post-with-diagrams",
@@ -337,7 +337,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/JDBio/blog/2021/diagrams/";
+            window.location.href = "/Bio/blog/2021/diagrams/";
           
         },
       },{id: "post-a-distill-style-blog-post",
@@ -348,7 +348,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/JDBio/blog/2021/distill/";
+            window.location.href = "/Bio/blog/2021/distill/";
           
         },
       },{id: "post-a-post-with-twitter",
@@ -359,7 +359,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/JDBio/blog/2020/twitter/";
+            window.location.href = "/Bio/blog/2020/twitter/";
           
         },
       },{id: "post-a-post-with-disqus-comments",
@@ -370,7 +370,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/JDBio/blog/2015/disqus-comments/";
+            window.location.href = "/Bio/blog/2015/disqus-comments/";
           
         },
       },{id: "post-a-post-with-math",
@@ -381,7 +381,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/JDBio/blog/2015/math/";
+            window.location.href = "/Bio/blog/2015/math/";
           
         },
       },{id: "post-a-post-with-code",
@@ -392,7 +392,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/JDBio/blog/2015/code/";
+            window.location.href = "/Bio/blog/2015/code/";
           
         },
       },{id: "post-a-post-with-images",
@@ -403,7 +403,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/JDBio/blog/2015/images/";
+            window.location.href = "/Bio/blog/2015/images/";
           
         },
       },{id: "post-a-post-with-formatting-and-links",
@@ -414,14 +414,14 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/JDBio/blog/2015/formatting-and-links/";
+            window.location.href = "/Bio/blog/2015/formatting-and-links/";
           
         },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/JDBio/books/the_godfather/";
+              window.location.href = "/Bio/books/the_godfather/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
@@ -429,7 +429,7 @@ ninja.data = [{
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/JDBio/news/announcement_2/";
+              window.location.href = "/Bio/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
@@ -437,57 +437,57 @@ ninja.data = [{
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
-              window.location.href = "/JDBio/projects/1_project/";
+              window.location.href = "/Bio/projects/1_project/";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
-              window.location.href = "/JDBio/projects/2_project/";
+              window.location.href = "/Bio/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
-              window.location.href = "/JDBio/projects/3_project/";
+              window.location.href = "/Bio/projects/3_project/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
           section: "Projects",handler: () => {
-              window.location.href = "/JDBio/projects/4_project/";
+              window.location.href = "/Bio/projects/4_project/";
             },},{id: "projects-project-5",
           title: 'project 5',
           description: "a project with a background image",
           section: "Projects",handler: () => {
-              window.location.href = "/JDBio/projects/5_project/";
+              window.location.href = "/Bio/projects/5_project/";
             },},{id: "projects-project-6",
           title: 'project 6',
           description: "a project with no image",
           section: "Projects",handler: () => {
-              window.location.href = "/JDBio/projects/6_project/";
+              window.location.href = "/Bio/projects/6_project/";
             },},{id: "projects-project-7",
           title: 'project 7',
           description: "with background image",
           section: "Projects",handler: () => {
-              window.location.href = "/JDBio/projects/7_project/";
+              window.location.href = "/Bio/projects/7_project/";
             },},{id: "projects-project-8",
           title: 'project 8',
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
-              window.location.href = "/JDBio/projects/8_project/";
+              window.location.href = "/Bio/projects/8_project/";
             },},{id: "projects-project-9",
           title: 'project 9',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
-              window.location.href = "/JDBio/projects/9_project/";
+              window.location.href = "/Bio/projects/9_project/";
             },},{id: "teachings-applied-statistics",
           title: 'Applied Statistics',
           description: "Undergraduate course on probability, inference, regression, and Bayesian thinking.",
           section: "Teachings",handler: () => {
-              window.location.href = "/JDBio/teachings/data-science-fundamentals/";
+              window.location.href = "/Bio/teachings/data-science-fundamentals/";
             },},{id: "teachings-reinforcement-learning-for-intelligent-decision-making",
           title: 'Reinforcement Learning for Intelligent Decision Making',
           description: "Graduate course covering reinforcement learning from core foundations to advanced RL and MARL.",
           section: "Teachings",handler: () => {
-              window.location.href = "/JDBio/teachings/introduction-to-machine-learning/";
+              window.location.href = "/Bio/teachings/introduction-to-machine-learning/";
             },},{
         id: 'social-email',
         title: 'email',

@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "yujiadong0210-eng/JDBio",
+    "data-repo": "jiadong-yu/Bio",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
