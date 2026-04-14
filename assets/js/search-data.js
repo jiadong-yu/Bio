@@ -479,18 +479,18 @@ ninja.data = [{
           window.open("mailto:%6A%69%61%64%6F%6E%67%79%75@%68%6B%75%73%74-%67%7A.%65%64%75.%63%6E", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/JDBio/feed.xml", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=lsj5Wv4AAAAJ", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/jiadong-yu", "_blank");
         },
       },{
       id: 'light-theme',
