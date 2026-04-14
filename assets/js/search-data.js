@@ -18,10 +18,10 @@ ninja.data = [{
           },
         },{id: "nav-grants",
           title: "Grants",
-          description: "Selected grants and research projects led by Jiadong Yu.",
+          description: "Selected grants and funded research led by Jiadong Yu.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/JDBio/projects/";
+            window.location.href = "/JDBio/grants/";
           },
         },{id: "nav-teaching",
           title: "Teaching",
@@ -479,11 +479,11 @@ ninja.data = [{
           window.open("/JDBio/feed.xml", "_blank");
         },
       },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=lsj5Wv4AAAAJ", "_blank");
+          window.open("https://www.linkedin.com/in/jiadong-yu", "_blank");
         },
       },{
       id: 'light-theme',
