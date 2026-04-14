@@ -1,15 +1,12 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Course materials, schedules, and resources for classes taught.
-nav: false
+title: Teaching
+description: Courses taught by Jiadong Yu at HKUST(GZ).
+nav: true
 nav_order: 6
-calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
-
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+This page highlights the courses I teach at The Hong Kong University of Science and Technology (Guangzhou), with a focus on statistics, reinforcement learning, and intelligent decision-making in cyber-physical systems.
 
 {% include courses.liquid %}
