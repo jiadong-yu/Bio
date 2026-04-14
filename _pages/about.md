@@ -40,6 +40,21 @@ latest_posts:
   .post .profile .more-info p {
     margin: 0;
   }
+
+  .post .social .contact-icons {
+    font-size: 2.6rem;
+  }
+
+  .post .social .contact-icons a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 0.2rem;
+  }
+
+  .post .social .contact-icons a i {
+    transform: scale(0.9);
+  }
 </style>
 
 <div class="jd-page-intro jd-plain-block">
