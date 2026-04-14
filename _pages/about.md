@@ -27,7 +27,7 @@ latest_posts:
 <style>
   @media (min-width: 576px) {
     .post .profile {
-      width: 27%;
+      width: 25%;
     }
   }
 

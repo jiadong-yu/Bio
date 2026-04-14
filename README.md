@@ -1,4 +1,4 @@
-# JDBio
+# Bio
 
 Personal academic homepage for Jiadong Yu, built with Jekyll and the `al-folio` theme.
 
