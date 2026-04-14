@@ -9,12 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/JDBio/";
     },
-  },{id: "nav-publications",
-          title: "Publications",
-          description: "Journal and conference papers by Jiadong Yu.",
+  },{id: "nav-teaching",
+          title: "Teaching",
+          description: "Courses taught by Jiadong Yu at HKUST(GZ).",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/JDBio/publications/";
+            window.location.href = "/JDBio/teaching/";
           },
         },{id: "nav-grants",
           title: "Grants",
@@ -23,12 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/JDBio/grants/";
           },
-        },{id: "nav-teaching",
-          title: "Teaching",
-          description: "Courses taught by Jiadong Yu at HKUST(GZ).",
+        },{id: "nav-services",
+          title: "Services",
+          description: "Professional services and academic activities by Jiadong Yu.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/JDBio/teaching/";
+            window.location.href = "/JDBio/services/";
           },
         },{id: "nav-group",
           title: "Group",
@@ -36,6 +36,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/JDBio/group/";
+          },
+        },{id: "nav-publications",
+          title: "Publications",
+          description: "Journal and conference papers by Jiadong Yu.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/JDBio/publications/";
           },
         },{id: "post-a-post-with-plotly-js",
         
