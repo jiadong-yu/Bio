@@ -5,106 +5,29 @@
   {% if widget and widget.image_url and widget.image_url != blank %}
     {% assign is_live = true %}
   {% endif %}
-  {% capture homepage_url %}{{ site.url }}{{ site.baseurl }}{% endcapture %}
-
-  <div class="jd-section-divider"><span>{{ visitor_map.title }}</span></div>
-  <div class="jd-visitor-section">
-    <div class="jd-card jd-visitor-copy">
-      {% if visitor_map.kicker %}
-        <p class="jd-visitor-kicker">{{ visitor_map.kicker }}</p>
-      {% endif %}
-      <h3 class="jd-visitor-title">
-        {% if is_live %}
-          Where readers are visiting from
-        {% else %}
-          A production-ready visitor map slot styled for the homepage
-        {% endif %}
-      </h3>
-      {% if visitor_map.description %}
-        <p class="jd-card-meta">{{ visitor_map.description }}</p>
-      {% endif %}
-      {% if visitor_map.provider.note %}
-        <p class="jd-card-meta">{{ visitor_map.provider.note }}</p>
-      {% endif %}
-      <div class="jd-visitor-badges">
-        <span class="jd-visitor-badge is-accent">
-          {% if is_live %}
-            {{ visitor_map.labels.live_badge }}
-          {% else %}
-            {{ visitor_map.labels.setup_badge }}
-          {% endif %}
-        </span>
-        <span class="jd-visitor-badge">Homepage module</span>
-        <span class="jd-visitor-badge">Responsive layout</span>
-      </div>
+  <div class="jd-visitor-map-only{% unless is_live %} is-empty{% endunless %}">
+    <div class="jd-visitor-map-shell" style="min-height: {{ widget.height | default: 340 }}px;">
       {% if is_live %}
-        <div class="jd-visitor-actions">
-          <a
-            class="jd-visitor-action"
-            href="{{ widget.stats_url }}"
-            target="_blank"
-            rel="noopener noreferrer"
+        {% assign widget_target = widget.stats_url | default: visitor_map.provider.setup_url %}
+        <a
+          class="jd-visitor-live-link"
+          href="{{ widget_target }}"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="{{ widget.alt | default: 'Live visitor map' }}"
+        >
+          <img
+            class="jd-visitor-live-image"
+            src="{{ widget.image_url }}"
+            alt="{{ widget.alt | default: 'Live visitor map' }}"
+            loading="lazy"
           >
-            {{ visitor_map.labels.stats_button }}
-          </a>
-          <span class="jd-visitor-mini-note">{{ homepage_url }}</span>
+        </a>
+      {% else %}
+        <div class="jd-visitor-empty-state">
+          <div class="jd-visitor-empty-globe"></div>
         </div>
       {% endif %}
-    </div>
-
-    <div class="jd-visitor-panel{% unless is_live %} is-empty{% endunless %}">
-      <div class="jd-visitor-preview-label">
-        {% if is_live %}
-          Live Map
-        {% else %}
-          Widget Slot
-        {% endif %}
-      </div>
-
-      <div class="jd-visitor-map-frame" style="min-height: {{ widget.height | default: 340 }}px;">
-        {% if is_live %}
-          {% assign widget_target = widget.stats_url | default: visitor_map.provider.setup_url %}
-          <a
-            class="jd-visitor-live-link"
-            href="{{ widget_target }}"
-            target="_blank"
-            rel="noopener noreferrer"
-            aria-label="{{ widget.alt | default: 'Live visitor map' }}"
-          >
-            <img
-              class="jd-visitor-live-image"
-              src="{{ widget.image_url }}"
-              alt="{{ widget.alt | default: 'Live visitor map' }}"
-              loading="lazy"
-            >
-          </a>
-        {% else %}
-          <div class="jd-visitor-empty-state">
-            <div class="jd-visitor-empty-globe"></div>
-            <p class="jd-visitor-empty-title">Widget configuration still needed</p>
-            <p class="jd-visitor-empty-text">
-              Open the provider page, create a map-style counter, and paste its generated image URL into
-              <code>_data/visitor_map.yml</code>.
-            </p>
-            <a
-              class="jd-visitor-setup-link"
-              href="{{ visitor_map.provider.setup_url }}"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              {{ visitor_map.labels.setup_button }}
-            </a>
-          </div>
-        {% endif %}
-      </div>
-
-      <p class="jd-visitor-legend">
-        {% if is_live %}
-          The map is now live on the homepage and updates through the configured external visitor-tracking service.
-        {% else %}
-          Once the generated widget URL is added, this section will immediately become a live visitor map without further template edits.
-        {% endif %}
-      </p>
     </div>
   </div>
 {% endif %}
