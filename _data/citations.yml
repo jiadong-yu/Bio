@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-08'
+  last_updated: '2026-06-10'
 papers:
   lsj5Wv4AAAAJ:2osOgNQ5qMEC:
     citations: 2
@@ -70,7 +70,7 @@ papers:
     title: Deep learning for channel tracking in IRS-assisted UAV communication systems
     year: '2022'
   lsj5Wv4AAAAJ:WF5omc3nYNoC:
-    citations: 70
+    citations: 72
     title: 'IRS assisted NOMA aided mobile edge computing with queue stability: Heterogeneous multi-agent reinforcement learning'
     year: '2022'
   lsj5Wv4AAAAJ:Wp0gIr-vW9MC:
