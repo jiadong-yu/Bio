@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-17'
+  last_updated: '2026-07-08'
 papers:
   lsj5Wv4AAAAJ:2osOgNQ5qMEC:
     citations: 2
@@ -18,7 +18,7 @@ papers:
     title: 'Constructing the metaverse with a new perspective: UAV FoV-assisted low-latency imaging'
     year: '2024'
   lsj5Wv4AAAAJ:9ZlFYXVOiuMC:
-    citations: 15
+    citations: 16
     title: Joint channel estimation and reinforcement-learning-based resource allocation of intelligent-reflecting-surface-aided multicell mobile edge computing
     year: '2023'
   lsj5Wv4AAAAJ:9yKSN-GCB0IC:
@@ -34,12 +34,12 @@ papers:
     title: Knowledge Distillation-based Aggregation and Energy-constrained User Scheduling for Multimodal Federated Learning
     year: '2025'
   lsj5Wv4AAAAJ:M3ejUd6NZC8C:
-    citations: 58
+    citations: 60
     title: Attention-based QoE-aware digital twin empowered edge computing for immersive virtual reality
     year: '2024'
   lsj5Wv4AAAAJ:NMxIlDl6LWMC:
     citations: 1
-    title: Integrating Brain-Computer Interface and Neuromorphic Computing for Human Digital Twins
+    title: Integrating brain-computer interface and neuromorphic computing for human digital twins
     year: '2026'
   lsj5Wv4AAAAJ:QIV2ME_5wuYC:
     citations: 24
@@ -66,11 +66,11 @@ papers:
     title: 3D channel tracking for UAV-satellite communications in space-air-ground integrated networks
     year: '2020'
   lsj5Wv4AAAAJ:W7OEmFMy1HYC:
-    citations: 86
+    citations: 88
     title: Deep learning for channel tracking in IRS-assisted UAV communication systems
     year: '2022'
   lsj5Wv4AAAAJ:WF5omc3nYNoC:
-    citations: 72
+    citations: 76
     title: 'IRS assisted NOMA aided mobile edge computing with queue stability: Heterogeneous multi-agent reinforcement learning'
     year: '2022'
   lsj5Wv4AAAAJ:Wp0gIr-vW9MC:
@@ -86,7 +86,7 @@ papers:
     title: 'Advancing Rail Infrastructure: Integrating Digital Twins and Cyber-Physical Systems for Predictive Maintenance'
     year: '2025'
   lsj5Wv4AAAAJ:aqlVkmm33-oC:
-    citations: 14
+    citations: 15
     title: Energy-latency aware intelligent reflecting surface aided multi-cell mobile edge computing
     year: '2023'
   lsj5Wv4AAAAJ:bEWYMUwI8FkC:
@@ -98,19 +98,19 @@ papers:
     title: Energy-Efficient Learning-Based Beamforming for ISAC-Enabled V2X Networks
     year: '2025'
   lsj5Wv4AAAAJ:d1gkVwhDpl0C:
-    citations: 210
+    citations: 213
     title: Resource allocation with edge computing in IoT networks via machine learning
     year: '2020'
   lsj5Wv4AAAAJ:e5wmG9Sq2KIC:
-    citations: 15
+    citations: 18
     title: Energy-efficient and intelligent ISAC in V2X networks with spiking neural networks-driven DRL
     year: '2025'
   lsj5Wv4AAAAJ:eQOLeE2rZwMC:
-    citations: 54
+    citations: 55
     title: Distributed intelligence in wireless networks
     year: '2023'
   lsj5Wv4AAAAJ:hC7cP41nSMkC:
-    citations: 8
+    citations: 11
     title: 'Improve the training efficiency of DRL for wireless communication resource allocation: The role of generative diffusion models'
     year: '2026'
   lsj5Wv4AAAAJ:hMod-77fHWUC:
@@ -142,7 +142,7 @@ papers:
     title: Spatial Channel Covariance Estimation for Hybrid mmWave Multi-User MIMO Systems
     year: '2019'
   lsj5Wv4AAAAJ:u5HHmVD_uO8C:
-    citations: 166
+    citations: 171
     title: Multi-agent reinforcement learning for resource allocation in IoT networks with edge computing
     year: '2020'
   lsj5Wv4AAAAJ:ufrVoPGSRksC:
