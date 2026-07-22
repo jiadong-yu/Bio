@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-08'
+  last_updated: '2026-07-22'
 papers:
   lsj5Wv4AAAAJ:2osOgNQ5qMEC:
     citations: 2
@@ -34,7 +34,7 @@ papers:
     title: Knowledge Distillation-based Aggregation and Energy-constrained User Scheduling for Multimodal Federated Learning
     year: '2025'
   lsj5Wv4AAAAJ:M3ejUd6NZC8C:
-    citations: 60
+    citations: 63
     title: Attention-based QoE-aware digital twin empowered edge computing for immersive virtual reality
     year: '2024'
   lsj5Wv4AAAAJ:NMxIlDl6LWMC:
@@ -42,11 +42,11 @@ papers:
     title: Integrating brain-computer interface and neuromorphic computing for human digital twins
     year: '2026'
   lsj5Wv4AAAAJ:QIV2ME_5wuYC:
-    citations: 24
+    citations: 25
     title: Energy-efficient decentralized federated learning for UAV swarm with spiking neural networks and leader election mechanism
     year: '2024'
   lsj5Wv4AAAAJ:RHpTSmoSYBkC:
-    citations: 9
+    citations: 10
     title: Federated Prompt-based Decision Transformer for Resource Allocation of Customized VR Streaming in Mobile Edge Computing
     year: '2025'
   lsj5Wv4AAAAJ:TFP_iSt0sucC:
@@ -55,14 +55,14 @@ papers:
     year: '2025'
   lsj5Wv4AAAAJ:TQgYirikUcIC:
     citations: 4
-    title: Multi-Modal Beamforming with Model Compression and Modality Generation for V2X Networks
-    year: '2025'
+    title: Multi-modal beamforming with model compression and modality generation for V2X networks
+    year: '2026'
   lsj5Wv4AAAAJ:Tyk-4Ss8FVUC:
     citations: 1
     title: On-grid 3D dynamic channel tracking for space-air communications with multiple UAVs
     year: '2021'
   lsj5Wv4AAAAJ:UeHWp8X0CEIC:
-    citations: 78
+    citations: 80
     title: 3D channel tracking for UAV-satellite communications in space-air-ground integrated networks
     year: '2020'
   lsj5Wv4AAAAJ:W7OEmFMy1HYC:
@@ -70,13 +70,17 @@ papers:
     title: Deep learning for channel tracking in IRS-assisted UAV communication systems
     year: '2022'
   lsj5Wv4AAAAJ:WF5omc3nYNoC:
-    citations: 76
+    citations: 77
     title: 'IRS assisted NOMA aided mobile edge computing with queue stability: Heterogeneous multi-agent reinforcement learning'
     year: '2022'
   lsj5Wv4AAAAJ:Wp0gIr-vW9MC:
     citations: 4
     title: 'QoE optimization for VR streaming: a continual RL framework in digital twin-empowered MEC'
     year: '2023'
+  lsj5Wv4AAAAJ:YFjsv_pBGBYC:
+    citations: 0
+    title: 'Learning Multi-Agent Communication Protocol: Study on Information Entropy Efficiency in MARL'
+    year: '2026'
   lsj5Wv4AAAAJ:_FxGoFyzp5QC:
     citations: 49
     title: Bi-directional digital twin and edge computing in the metaverse
@@ -86,7 +90,7 @@ papers:
     title: 'Advancing Rail Infrastructure: Integrating Digital Twins and Cyber-Physical Systems for Predictive Maintenance'
     year: '2025'
   lsj5Wv4AAAAJ:aqlVkmm33-oC:
-    citations: 15
+    citations: 16
     title: Energy-latency aware intelligent reflecting surface aided multi-cell mobile edge computing
     year: '2023'
   lsj5Wv4AAAAJ:bEWYMUwI8FkC:
@@ -94,7 +98,7 @@ papers:
     title: Scheduling and Fusion for Multimodal Federated Learning in Energy-constrained Wireless Networks
     year: '2025'
   lsj5Wv4AAAAJ:blknAaTinKkC:
-    citations: 2
+    citations: 3
     title: Energy-Efficient Learning-Based Beamforming for ISAC-Enabled V2X Networks
     year: '2025'
   lsj5Wv4AAAAJ:d1gkVwhDpl0C:
@@ -102,11 +106,11 @@ papers:
     title: Resource allocation with edge computing in IoT networks via machine learning
     year: '2020'
   lsj5Wv4AAAAJ:e5wmG9Sq2KIC:
-    citations: 18
+    citations: 19
     title: Energy-efficient and intelligent ISAC in V2X networks with spiking neural networks-driven DRL
     year: '2025'
   lsj5Wv4AAAAJ:eQOLeE2rZwMC:
-    citations: 55
+    citations: 57
     title: Distributed intelligence in wireless networks
     year: '2023'
   lsj5Wv4AAAAJ:hC7cP41nSMkC:
@@ -142,7 +146,7 @@ papers:
     title: Spatial Channel Covariance Estimation for Hybrid mmWave Multi-User MIMO Systems
     year: '2019'
   lsj5Wv4AAAAJ:u5HHmVD_uO8C:
-    citations: 171
+    citations: 174
     title: Multi-agent reinforcement learning for resource allocation in IoT networks with edge computing
     year: '2020'
   lsj5Wv4AAAAJ:ufrVoPGSRksC:
@@ -150,6 +154,6 @@ papers:
     title: '6G mobile-edge empowered metaverse: Requirements, technologies, challenges and research directions'
     year: '2022'
   lsj5Wv4AAAAJ:zYLM7Y9cAGgC:
-    citations: 20
+    citations: 21
     title: 3D on and off-grid dynamic channel tracking for multiple UAVs and satellite communications
     year: '2021'
