@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-22'
+  last_updated: '2026-07-31'
 papers:
   lsj5Wv4AAAAJ:2osOgNQ5qMEC:
     citations: 2
@@ -34,7 +34,7 @@ papers:
     title: Knowledge Distillation-based Aggregation and Energy-constrained User Scheduling for Multimodal Federated Learning
     year: '2025'
   lsj5Wv4AAAAJ:M3ejUd6NZC8C:
-    citations: 63
+    citations: 64
     title: Attention-based QoE-aware digital twin empowered edge computing for immersive virtual reality
     year: '2024'
   lsj5Wv4AAAAJ:NMxIlDl6LWMC:
@@ -55,14 +55,14 @@ papers:
     year: '2025'
   lsj5Wv4AAAAJ:TQgYirikUcIC:
     citations: 4
-    title: Multi-modal beamforming with model compression and modality generation for V2X networks
-    year: '2026'
+    title: Multi-Modal Beamforming with Model Compression and Modality Generation for V2X Networks
+    year: '2025'
   lsj5Wv4AAAAJ:Tyk-4Ss8FVUC:
     citations: 1
     title: On-grid 3D dynamic channel tracking for space-air communications with multiple UAVs
     year: '2021'
   lsj5Wv4AAAAJ:UeHWp8X0CEIC:
-    citations: 80
+    citations: 81
     title: 3D channel tracking for UAV-satellite communications in space-air-ground integrated networks
     year: '2020'
   lsj5Wv4AAAAJ:W7OEmFMy1HYC:
@@ -106,7 +106,7 @@ papers:
     title: Resource allocation with edge computing in IoT networks via machine learning
     year: '2020'
   lsj5Wv4AAAAJ:e5wmG9Sq2KIC:
-    citations: 19
+    citations: 18
     title: Energy-efficient and intelligent ISAC in V2X networks with spiking neural networks-driven DRL
     year: '2025'
   lsj5Wv4AAAAJ:eQOLeE2rZwMC:
@@ -114,9 +114,9 @@ papers:
     title: Distributed intelligence in wireless networks
     year: '2023'
   lsj5Wv4AAAAJ:hC7cP41nSMkC:
-    citations: 11
+    citations: 12
     title: 'Improve the training efficiency of DRL for wireless communication resource allocation: The role of generative diffusion models'
-    year: '2026'
+    year: '2025'
   lsj5Wv4AAAAJ:hMod-77fHWUC:
     citations: 0
     title: Spiking Personalized Federated Learning for Brain-Computer Interface-Enabled Immersive Communication
@@ -146,7 +146,7 @@ papers:
     title: Spatial Channel Covariance Estimation for Hybrid mmWave Multi-User MIMO Systems
     year: '2019'
   lsj5Wv4AAAAJ:u5HHmVD_uO8C:
-    citations: 174
+    citations: 175
     title: Multi-agent reinforcement learning for resource allocation in IoT networks with edge computing
     year: '2020'
   lsj5Wv4AAAAJ:ufrVoPGSRksC:
