@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-31'
+  last_updated: '2026-08-10'
 papers:
   lsj5Wv4AAAAJ:2osOgNQ5qMEC:
     citations: 2
@@ -22,7 +22,7 @@ papers:
     title: Joint channel estimation and reinforcement-learning-based resource allocation of intelligent-reflecting-surface-aided multicell mobile edge computing
     year: '2023'
   lsj5Wv4AAAAJ:9yKSN-GCB0IC:
-    citations: 31
+    citations: 30
     title: Learning to predict the mobility of users in mobile mmWave networks
     year: '2020'
   lsj5Wv4AAAAJ:IjCSPb-OGe4C:
@@ -34,43 +34,47 @@ papers:
     title: Knowledge Distillation-based Aggregation and Energy-constrained User Scheduling for Multimodal Federated Learning
     year: '2025'
   lsj5Wv4AAAAJ:M3ejUd6NZC8C:
-    citations: 64
+    citations: 66
     title: Attention-based QoE-aware digital twin empowered edge computing for immersive virtual reality
     year: '2024'
   lsj5Wv4AAAAJ:NMxIlDl6LWMC:
-    citations: 1
+    citations: 2
     title: Integrating brain-computer interface and neuromorphic computing for human digital twins
     year: '2026'
+  lsj5Wv4AAAAJ:NaGl4SEjCO4C:
+    citations: 0
+    title: Maximizing Personalized Energy-efficiency for Swarm Learning in 6G Networks
+    year: '2026'
   lsj5Wv4AAAAJ:QIV2ME_5wuYC:
-    citations: 25
+    citations: 24
     title: Energy-efficient decentralized federated learning for UAV swarm with spiking neural networks and leader election mechanism
     year: '2024'
   lsj5Wv4AAAAJ:RHpTSmoSYBkC:
     citations: 10
-    title: Federated Prompt-based Decision Transformer for Resource Allocation of Customized VR Streaming in Mobile Edge Computing
+    title: Federated prompt-based decision transformer for resource allocation of customized vr streaming in mobile edge computing
     year: '2025'
   lsj5Wv4AAAAJ:TFP_iSt0sucC:
     citations: 1
-    title: 'Network Topology and Information Efficiency of Multi-Agent Systems: Study based on MARL'
+    title: 'Network topology and information efficiency of multi-agent systems: Study based on MARL'
     year: '2025'
   lsj5Wv4AAAAJ:TQgYirikUcIC:
     citations: 4
-    title: Multi-Modal Beamforming with Model Compression and Modality Generation for V2X Networks
-    year: '2025'
+    title: Multi-modal beamforming with model compression and modality generation for V2X networks
+    year: '2026'
   lsj5Wv4AAAAJ:Tyk-4Ss8FVUC:
     citations: 1
     title: On-grid 3D dynamic channel tracking for space-air communications with multiple UAVs
     year: '2021'
   lsj5Wv4AAAAJ:UeHWp8X0CEIC:
-    citations: 81
+    citations: 80
     title: 3D channel tracking for UAV-satellite communications in space-air-ground integrated networks
     year: '2020'
   lsj5Wv4AAAAJ:W7OEmFMy1HYC:
-    citations: 88
+    citations: 86
     title: Deep learning for channel tracking in IRS-assisted UAV communication systems
     year: '2022'
   lsj5Wv4AAAAJ:WF5omc3nYNoC:
-    citations: 77
+    citations: 78
     title: 'IRS assisted NOMA aided mobile edge computing with queue stability: Heterogeneous multi-agent reinforcement learning'
     year: '2022'
   lsj5Wv4AAAAJ:Wp0gIr-vW9MC:
@@ -82,7 +86,7 @@ papers:
     title: 'Learning Multi-Agent Communication Protocol: Study on Information Entropy Efficiency in MARL'
     year: '2026'
   lsj5Wv4AAAAJ:_FxGoFyzp5QC:
-    citations: 49
+    citations: 48
     title: Bi-directional digital twin and edge computing in the metaverse
     year: '2024'
   lsj5Wv4AAAAJ:_Qo2XoVZTnwC:
@@ -90,33 +94,33 @@ papers:
     title: 'Advancing Rail Infrastructure: Integrating Digital Twins and Cyber-Physical Systems for Predictive Maintenance'
     year: '2025'
   lsj5Wv4AAAAJ:aqlVkmm33-oC:
-    citations: 16
+    citations: 17
     title: Energy-latency aware intelligent reflecting surface aided multi-cell mobile edge computing
     year: '2023'
   lsj5Wv4AAAAJ:bEWYMUwI8FkC:
     citations: 3
-    title: Scheduling and Fusion for Multimodal Federated Learning in Energy-constrained Wireless Networks
+    title: Scheduling and fusion for multimodal federated learning in energy-constrained wireless networks
     year: '2025'
   lsj5Wv4AAAAJ:blknAaTinKkC:
-    citations: 3
-    title: Energy-Efficient Learning-Based Beamforming for ISAC-Enabled V2X Networks
+    citations: 4
+    title: Energy-efficient learning-based beamforming for ISAC-enabled V2X networks
     year: '2025'
   lsj5Wv4AAAAJ:d1gkVwhDpl0C:
-    citations: 213
+    citations: 214
     title: Resource allocation with edge computing in IoT networks via machine learning
     year: '2020'
   lsj5Wv4AAAAJ:e5wmG9Sq2KIC:
-    citations: 18
+    citations: 22
     title: Energy-efficient and intelligent ISAC in V2X networks with spiking neural networks-driven DRL
     year: '2025'
   lsj5Wv4AAAAJ:eQOLeE2rZwMC:
-    citations: 57
+    citations: 60
     title: Distributed intelligence in wireless networks
     year: '2023'
   lsj5Wv4AAAAJ:hC7cP41nSMkC:
     citations: 12
     title: 'Improve the training efficiency of DRL for wireless communication resource allocation: The role of generative diffusion models'
-    year: '2025'
+    year: '2026'
   lsj5Wv4AAAAJ:hMod-77fHWUC:
     citations: 0
     title: Spiking Personalized Federated Learning for Brain-Computer Interface-Enabled Immersive Communication
@@ -127,14 +131,14 @@ papers:
     year: '2025'
   lsj5Wv4AAAAJ:isC4tDSrTZIC:
     citations: 2
-    title: Learning Efficient Communication Protocols for Multi-Agent Reinforcement Learning
-    year: '2025'
+    title: Learning efficient communication protocols for multi-agent reinforcement learning
+    year: '2026'
   lsj5Wv4AAAAJ:j3f4tGmQtD8C:
     citations: 0
     title: Joint Latency-Energy Aware Digital Twin Placement in Heterogeneous Cloud-Edge Networks
     year: '2025'
   lsj5Wv4AAAAJ:qjMakFHDy7sC:
-    citations: 15
+    citations: 16
     title: Long-term channel statistic estimation for highly-mobile hybrid mmWave multi-user MIMO systems
     year: '2020'
   lsj5Wv4AAAAJ:r0BpntZqJG4C:
