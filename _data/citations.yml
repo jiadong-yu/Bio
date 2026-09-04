@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-10'
+  last_updated: '2026-09-04'
 papers:
   lsj5Wv4AAAAJ:2osOgNQ5qMEC:
     citations: 2
@@ -14,11 +14,11 @@ papers:
     title: Rethinking the Reward Design for DRL in Mobile Communication Systems with Generative Diffusion Models
     year: '2025'
   lsj5Wv4AAAAJ:7PzlFSSx8tAC:
-    citations: 5
+    citations: 6
     title: 'Constructing the metaverse with a new perspective: UAV FoV-assisted low-latency imaging'
     year: '2024'
   lsj5Wv4AAAAJ:9ZlFYXVOiuMC:
-    citations: 16
+    citations: 17
     title: Joint channel estimation and reinforcement-learning-based resource allocation of intelligent-reflecting-surface-aided multicell mobile edge computing
     year: '2023'
   lsj5Wv4AAAAJ:9yKSN-GCB0IC:
@@ -34,11 +34,11 @@ papers:
     title: Knowledge Distillation-based Aggregation and Energy-constrained User Scheduling for Multimodal Federated Learning
     year: '2025'
   lsj5Wv4AAAAJ:M3ejUd6NZC8C:
-    citations: 66
+    citations: 67
     title: Attention-based QoE-aware digital twin empowered edge computing for immersive virtual reality
     year: '2024'
   lsj5Wv4AAAAJ:NMxIlDl6LWMC:
-    citations: 2
+    citations: 3
     title: Integrating brain-computer interface and neuromorphic computing for human digital twins
     year: '2026'
   lsj5Wv4AAAAJ:NaGl4SEjCO4C:
@@ -50,7 +50,7 @@ papers:
     title: Energy-efficient decentralized federated learning for UAV swarm with spiking neural networks and leader election mechanism
     year: '2024'
   lsj5Wv4AAAAJ:RHpTSmoSYBkC:
-    citations: 10
+    citations: 11
     title: Federated prompt-based decision transformer for resource allocation of customized vr streaming in mobile edge computing
     year: '2025'
   lsj5Wv4AAAAJ:TFP_iSt0sucC:
@@ -98,7 +98,7 @@ papers:
     title: Energy-latency aware intelligent reflecting surface aided multi-cell mobile edge computing
     year: '2023'
   lsj5Wv4AAAAJ:bEWYMUwI8FkC:
-    citations: 3
+    citations: 4
     title: Scheduling and fusion for multimodal federated learning in energy-constrained wireless networks
     year: '2025'
   lsj5Wv4AAAAJ:blknAaTinKkC:
@@ -106,7 +106,7 @@ papers:
     title: Energy-efficient learning-based beamforming for ISAC-enabled V2X networks
     year: '2025'
   lsj5Wv4AAAAJ:d1gkVwhDpl0C:
-    citations: 214
+    citations: 219
     title: Resource allocation with edge computing in IoT networks via machine learning
     year: '2020'
   lsj5Wv4AAAAJ:e5wmG9Sq2KIC:
@@ -114,11 +114,11 @@ papers:
     title: Energy-efficient and intelligent ISAC in V2X networks with spiking neural networks-driven DRL
     year: '2025'
   lsj5Wv4AAAAJ:eQOLeE2rZwMC:
-    citations: 60
+    citations: 61
     title: Distributed intelligence in wireless networks
     year: '2023'
   lsj5Wv4AAAAJ:hC7cP41nSMkC:
-    citations: 12
+    citations: 13
     title: 'Improve the training efficiency of DRL for wireless communication resource allocation: The role of generative diffusion models'
     year: '2026'
   lsj5Wv4AAAAJ:hMod-77fHWUC:
@@ -134,7 +134,7 @@ papers:
     title: Learning efficient communication protocols for multi-agent reinforcement learning
     year: '2026'
   lsj5Wv4AAAAJ:j3f4tGmQtD8C:
-    citations: 0
+    citations: 1
     title: Joint Latency-Energy Aware Digital Twin Placement in Heterogeneous Cloud-Edge Networks
     year: '2025'
   lsj5Wv4AAAAJ:qjMakFHDy7sC:
@@ -158,6 +158,6 @@ papers:
     title: '6G mobile-edge empowered metaverse: Requirements, technologies, challenges and research directions'
     year: '2022'
   lsj5Wv4AAAAJ:zYLM7Y9cAGgC:
-    citations: 21
+    citations: 22
     title: 3D on and off-grid dynamic channel tracking for multiple UAVs and satellite communications
     year: '2021'
